@@ -17,6 +17,6 @@
 
 <br>
 <h2 align="center">Profile Statistics</h2>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=berke-alp&theme=radical&hide=prs,issues" alt="berke-alp" /> </p>
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=berke-alp&layout=compact&theme=radical" alt="berke-alp" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=berke-alp&label=Profile%20Views&color=0e75b6&style=flat" alt="berke-alp" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=bertt6&theme=radical&hide=prs,issues" alt="bertt6" /> </p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bertt6&layout=compact&theme=radical" alt="bertt6" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=bertt6&label=Profile%20Views&color=0e75b6&style=flat" alt="bertt6" /> </p>
