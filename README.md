@@ -8,7 +8,7 @@
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="bert#1499" title="Discord" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/beratsaml/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@berkealpcaliskan" title="Instagram" height="30" width="40" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@beratsaml" title="Instagram" height="30" width="40" />
   </a>
   <a href="https://open.spotify.com/user/ljj540zdzgwmsm5krcb72a1s5" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/spotify.svg" alt="https://open.spotify.com/user/21tpr2ay3xpqaypo6de5nmp6q" title="Spotify" height="30" width="40" />
