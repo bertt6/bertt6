@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Berat
 #### I am Swift and algorithm developer
-![I am Swift and algorithm developer](https://i.pinimg.com/originals/84/f5/53/84f5533218ae3fbc050349d5d1937d13.jpg)
+![I am Swift and algorithm developer](https://images.alphacoders.com/108/1081303.png)
 
 
 Skills: C / C# / SwiftUI / HTML / CSS / Shell
@@ -17,8 +17,6 @@ Skills: C / C# / SwiftUI / HTML / CSS / Shell
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertt6)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=bertt6&show_icons=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=bertt6)  
 
 ![GitHub metrics](https://metrics.lecoq.io/bertt6)  
 
