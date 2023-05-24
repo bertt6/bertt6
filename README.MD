@@ -2,6 +2,7 @@
 #### I am Swift and algorithm developer
 ![I am Swift and algorithm developer](https://images.alphacoders.com/108/1081303.png)
 
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli1giwsl003508kza7pbi9le/stats?cursusId=21&coalitionId=197" alt="bsamli's 42 stats" /></a>
 
 Skills: C / C# / SwiftUI / HTML / CSS / Shell
 
