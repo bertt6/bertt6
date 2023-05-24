@@ -1,6 +1,6 @@
 ### Hi there 👋, my name is Berat
 #### I am Swift and algorithm developer
-![I am Swift and algorithm developer](https://images.alphacoders.com/108/1081303.png)
+![I am Swift and algorithm developer]
 
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cli1giwsl003508kza7pbi9le/stats?cursusId=21&coalitionId=197" alt="bsamli's 42 stats" /></a>
 
@@ -14,11 +14,5 @@ Skills: C / C# / SwiftUI / HTML / CSS / Shell
 [![trophy](https://github-profile-trophy.vercel.app/?username=bertt6)](https://github.com/ryo-ma/github-profile-trophy)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bertt6)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=bertt6&show_icons=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/bertt6)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=bertt6)  
 
 ![Profile views](https://gpvc.arturio.dev/bertt6)  
