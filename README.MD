@@ -3,7 +3,7 @@
 ###
 
 <p align="center">- 🔭 I’m working as Software Developer.<br>- 📚 I am currently learning and writing Javascript, C++, Docker and Kubernetes.</p>
-<a align="center" href="https://github.com/JaeSeoKim/badge42" ><img src="https://badge42.vercel.app/api/v2/cli1giwsl003508kza7pbi9le/stats?cursusId=21&coalitionId=197" alt="bsamli's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42" ><img src="https://badge42.vercel.app/api/v2/cli1giwsl003508kza7pbi9le/stats?cursusId=21&coalitionId=197" align="center" alt="bsamli's 42 stats" /></a>
 
 ###
 
