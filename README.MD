@@ -1,8 +1,8 @@
-<h2 align="left">Hi 👋! My name is Berat and I'm a Software Developer, from Ecole42 Istanbul.</h2>
+<h2 align="left">Hi 👋! My name is Berat and I'm a Junior DevOps Engineer.</h2>
 
 
 
-<p align="center">- 🔭 I’m working as DevOps.<br>- 📚 I am currently learning and writing Javascript, C++, Docker, Kubernetes.</p>
+<p align="center">- 🔭 I’m working as DevOps.<br>- 📚 I am currently learning and writing IaC, C++, Docker, Kubernetes.</p>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=bertt6&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false" height="150" alt="stats graph"  />
